@@ -1,0 +1,34 @@
+img {
+	display: block;
+	margin: 0px auto;
+}
+
+input {
+	border-radius: 50px;
+	border: 1px solid #ECECEC;
+
+}
+
+button {
+	border: none;
+	padding: 10px 10px 10px 10px;
+	margin: 0 0 0 10px;
+	font-weight: bold;
+	color: gray;
+}
+
+button:hover {
+	cursor: pointer;
+	opacity: 0.8;
+}
+
+p {
+	margin-top: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	font-weight: normal;
+}
